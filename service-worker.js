@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Promodo-Clock/precache-manifest.d8adc40493d2eb76bfd92fd321afccc5.js"
+  "/Promodo-Clock/precache-manifest.46fb760d71dda1fd492562afb6d4f4ff.js"
 );
 
 self.addEventListener('message', (event) => {

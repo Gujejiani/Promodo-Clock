@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4654beac669ff210af66b96f7ac1bc59",
+    "revision": "3499476440d43b58a68b64021077f559",
     "url": "/Promodo-Clock/index.html"
   },
   {
-    "revision": "362280d78a2b90c93548",
-    "url": "/Promodo-Clock/static/css/main.ad896165.chunk.css"
+    "revision": "5e26cd72bbff050ca18c",
+    "url": "/Promodo-Clock/static/css/main.2b5e4422.chunk.css"
   },
   {
     "revision": "0ef032cac6b88d982ff4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Promodo-Clock/static/js/2.da325554.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "362280d78a2b90c93548",
+    "revision": "5e26cd72bbff050ca18c",
     "url": "/Promodo-Clock/static/js/main.03c046a3.chunk.js"
   },
   {

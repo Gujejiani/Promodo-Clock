@@ -1,0 +1,56 @@
+.arrows{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 600px;
+    height: 500px;
+}
+#break-label{
+    position: absolute;
+    top: 240px;
+    left: 3%;
+    font-size: 25px;
+}
+
+
+#break-decrement{
+    position: absolute;
+    top: 409px;
+   
+    left: 70px;
+}
+
+#break-increment{
+    position: absolute;
+    top: 272px;
+    left: 70px;
+}
+#break-length{
+    position: absolute;
+    top: 280px;
+    left: 33%;
+    font-size: 30px;
+
+}
+
+#session-decrement{
+    position: absolute;
+    top: 409px;
+   
+    left: 490px;
+}
+
+#session-increment{
+    position: absolute;
+    top: 272px;
+    left: 490px;
+}
+
+
+#session-label{
+    position: absolute;
+    top: 240px;
+    left: 400px;
+    font-size: 25px;
+    
+}

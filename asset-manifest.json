@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Promodo-Clock/static/css/main.61833337.chunk.css",
-    "main.js": "/Promodo-Clock/static/js/main.fe7279d1.chunk.js",
-    "main.js.map": "/Promodo-Clock/static/js/main.fe7279d1.chunk.js.map",
+    "main.css": "/Promodo-Clock/static/css/main.2baa6236.chunk.css",
+    "main.js": "/Promodo-Clock/static/js/main.c72cb9e5.chunk.js",
+    "main.js.map": "/Promodo-Clock/static/js/main.c72cb9e5.chunk.js.map",
     "runtime-main.js": "/Promodo-Clock/static/js/runtime-main.177048b3.js",
     "runtime-main.js.map": "/Promodo-Clock/static/js/runtime-main.177048b3.js.map",
     "static/js/2.da325554.chunk.js": "/Promodo-Clock/static/js/2.da325554.chunk.js",
     "static/js/2.da325554.chunk.js.map": "/Promodo-Clock/static/js/2.da325554.chunk.js.map",
     "index.html": "/Promodo-Clock/index.html",
-    "precache-manifest.0b46f95b1c18ee7797ce1ae4834dd097.js": "/Promodo-Clock/precache-manifest.0b46f95b1c18ee7797ce1ae4834dd097.js",
+    "precache-manifest.95ebee95f023323212919298dc39cb0c.js": "/Promodo-Clock/precache-manifest.95ebee95f023323212919298dc39cb0c.js",
     "service-worker.js": "/Promodo-Clock/service-worker.js",
-    "static/css/main.61833337.chunk.css.map": "/Promodo-Clock/static/css/main.61833337.chunk.css.map",
+    "static/css/main.2baa6236.chunk.css.map": "/Promodo-Clock/static/css/main.2baa6236.chunk.css.map",
     "static/js/2.da325554.chunk.js.LICENSE.txt": "/Promodo-Clock/static/js/2.da325554.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.177048b3.js",
     "static/js/2.da325554.chunk.js",
-    "static/css/main.61833337.chunk.css",
-    "static/js/main.fe7279d1.chunk.js"
+    "static/css/main.2baa6236.chunk.css",
+    "static/js/main.c72cb9e5.chunk.js"
   ]
 }
